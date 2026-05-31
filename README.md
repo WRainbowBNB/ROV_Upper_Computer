@@ -7,3 +7,5 @@
 在进行下位机连通测试时，应打开socat虚拟串口，记录当前串口号，并在src/serial_comm/serial.py 和test/serial_env.py中进行相应修改
 
 <img width="1250" height="1003" alt="image" src="https://github.com/user-attachments/assets/72b9bd37-f687-47ec-888b-758b8d021f53" />
+
+<img width="1250" height="1003" alt="image" src="https://github.com/user-attachments/assets/8610f707-375b-40e8-b41f-3ea95a6b7540" />
