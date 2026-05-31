@@ -1,0 +1,7 @@
+PyQt6>=6.0.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+pygame>=2.0.0
+pyserial>=3.5
+configparser
+pandas>=1.3.0
