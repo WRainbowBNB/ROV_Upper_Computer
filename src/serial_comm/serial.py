@@ -24,6 +24,7 @@ class SerialControl(QThread):
         self.rx_buf = bytearray()
 		#开串口
         try:
+            #TODO：换成实际项目这里是要改的！
             #'/dev/ttyUSB0'
             self.ser = serial.Serial('/dev/pts/5' , 115200, timeout = 0.1)
             print("串口已连接")
